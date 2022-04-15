@@ -1,0 +1,15 @@
+C:\C#Lessons\lecture_02\lecture_02\seminar_02\DZ2\bin\Debug\net6.0\DZ2.exe
+C:\C#Lessons\lecture_02\lecture_02\seminar_02\DZ2\bin\Debug\net6.0\DZ2.deps.json
+C:\C#Lessons\lecture_02\lecture_02\seminar_02\DZ2\bin\Debug\net6.0\DZ2.runtimeconfig.json
+C:\C#Lessons\lecture_02\lecture_02\seminar_02\DZ2\bin\Debug\net6.0\DZ2.dll
+C:\C#Lessons\lecture_02\lecture_02\seminar_02\DZ2\bin\Debug\net6.0\DZ2.pdb
+C:\C#Lessons\lecture_02\lecture_02\seminar_02\DZ2\obj\Debug\net6.0\DZ2.csproj.AssemblyReference.cache
+C:\C#Lessons\lecture_02\lecture_02\seminar_02\DZ2\obj\Debug\net6.0\DZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Lessons\lecture_02\lecture_02\seminar_02\DZ2\obj\Debug\net6.0\DZ2.AssemblyInfoInputs.cache
+C:\C#Lessons\lecture_02\lecture_02\seminar_02\DZ2\obj\Debug\net6.0\DZ2.AssemblyInfo.cs
+C:\C#Lessons\lecture_02\lecture_02\seminar_02\DZ2\obj\Debug\net6.0\DZ2.csproj.CoreCompileInputs.cache
+C:\C#Lessons\lecture_02\lecture_02\seminar_02\DZ2\obj\Debug\net6.0\DZ2.dll
+C:\C#Lessons\lecture_02\lecture_02\seminar_02\DZ2\obj\Debug\net6.0\refint\DZ2.dll
+C:\C#Lessons\lecture_02\lecture_02\seminar_02\DZ2\obj\Debug\net6.0\DZ2.pdb
+C:\C#Lessons\lecture_02\lecture_02\seminar_02\DZ2\obj\Debug\net6.0\DZ2.genruntimeconfig.cache
+C:\C#Lessons\lecture_02\lecture_02\seminar_02\DZ2\obj\Debug\net6.0\ref\DZ2.dll
