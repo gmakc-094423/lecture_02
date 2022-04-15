@@ -1,0 +1,15 @@
+C:\C#Lessons\lecture_02\lecture_02\example_02\bin\Debug\net6.0\example_02.exe
+C:\C#Lessons\lecture_02\lecture_02\example_02\bin\Debug\net6.0\example_02.deps.json
+C:\C#Lessons\lecture_02\lecture_02\example_02\bin\Debug\net6.0\example_02.runtimeconfig.json
+C:\C#Lessons\lecture_02\lecture_02\example_02\bin\Debug\net6.0\example_02.dll
+C:\C#Lessons\lecture_02\lecture_02\example_02\bin\Debug\net6.0\example_02.pdb
+C:\C#Lessons\lecture_02\lecture_02\example_02\obj\Debug\net6.0\example_02.csproj.AssemblyReference.cache
+C:\C#Lessons\lecture_02\lecture_02\example_02\obj\Debug\net6.0\example_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Lessons\lecture_02\lecture_02\example_02\obj\Debug\net6.0\example_02.AssemblyInfoInputs.cache
+C:\C#Lessons\lecture_02\lecture_02\example_02\obj\Debug\net6.0\example_02.AssemblyInfo.cs
+C:\C#Lessons\lecture_02\lecture_02\example_02\obj\Debug\net6.0\example_02.csproj.CoreCompileInputs.cache
+C:\C#Lessons\lecture_02\lecture_02\example_02\obj\Debug\net6.0\example_02.dll
+C:\C#Lessons\lecture_02\lecture_02\example_02\obj\Debug\net6.0\refint\example_02.dll
+C:\C#Lessons\lecture_02\lecture_02\example_02\obj\Debug\net6.0\example_02.pdb
+C:\C#Lessons\lecture_02\lecture_02\example_02\obj\Debug\net6.0\example_02.genruntimeconfig.cache
+C:\C#Lessons\lecture_02\lecture_02\example_02\obj\Debug\net6.0\ref\example_02.dll
