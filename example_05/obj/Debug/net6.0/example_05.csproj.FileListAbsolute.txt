@@ -1,0 +1,15 @@
+C:\C#Lessons\lecture_02\lecture_02\example_05\bin\Debug\net6.0\example_05.exe
+C:\C#Lessons\lecture_02\lecture_02\example_05\bin\Debug\net6.0\example_05.deps.json
+C:\C#Lessons\lecture_02\lecture_02\example_05\bin\Debug\net6.0\example_05.runtimeconfig.json
+C:\C#Lessons\lecture_02\lecture_02\example_05\bin\Debug\net6.0\example_05.dll
+C:\C#Lessons\lecture_02\lecture_02\example_05\bin\Debug\net6.0\example_05.pdb
+C:\C#Lessons\lecture_02\lecture_02\example_05\obj\Debug\net6.0\example_05.csproj.AssemblyReference.cache
+C:\C#Lessons\lecture_02\lecture_02\example_05\obj\Debug\net6.0\example_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Lessons\lecture_02\lecture_02\example_05\obj\Debug\net6.0\example_05.AssemblyInfoInputs.cache
+C:\C#Lessons\lecture_02\lecture_02\example_05\obj\Debug\net6.0\example_05.AssemblyInfo.cs
+C:\C#Lessons\lecture_02\lecture_02\example_05\obj\Debug\net6.0\example_05.csproj.CoreCompileInputs.cache
+C:\C#Lessons\lecture_02\lecture_02\example_05\obj\Debug\net6.0\example_05.dll
+C:\C#Lessons\lecture_02\lecture_02\example_05\obj\Debug\net6.0\refint\example_05.dll
+C:\C#Lessons\lecture_02\lecture_02\example_05\obj\Debug\net6.0\example_05.pdb
+C:\C#Lessons\lecture_02\lecture_02\example_05\obj\Debug\net6.0\example_05.genruntimeconfig.cache
+C:\C#Lessons\lecture_02\lecture_02\example_05\obj\Debug\net6.0\ref\example_05.dll

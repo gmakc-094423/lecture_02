@@ -1,0 +1,15 @@
+C:\C#Lessons\lecture_02\lecture_02\DZ3\bin\Debug\net6.0\DZ3.exe
+C:\C#Lessons\lecture_02\lecture_02\DZ3\bin\Debug\net6.0\DZ3.deps.json
+C:\C#Lessons\lecture_02\lecture_02\DZ3\bin\Debug\net6.0\DZ3.runtimeconfig.json
+C:\C#Lessons\lecture_02\lecture_02\DZ3\bin\Debug\net6.0\DZ3.dll
+C:\C#Lessons\lecture_02\lecture_02\DZ3\bin\Debug\net6.0\DZ3.pdb
+C:\C#Lessons\lecture_02\lecture_02\DZ3\obj\Debug\net6.0\DZ3.csproj.AssemblyReference.cache
+C:\C#Lessons\lecture_02\lecture_02\DZ3\obj\Debug\net6.0\DZ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Lessons\lecture_02\lecture_02\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfoInputs.cache
+C:\C#Lessons\lecture_02\lecture_02\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfo.cs
+C:\C#Lessons\lecture_02\lecture_02\DZ3\obj\Debug\net6.0\DZ3.csproj.CoreCompileInputs.cache
+C:\C#Lessons\lecture_02\lecture_02\DZ3\obj\Debug\net6.0\DZ3.dll
+C:\C#Lessons\lecture_02\lecture_02\DZ3\obj\Debug\net6.0\refint\DZ3.dll
+C:\C#Lessons\lecture_02\lecture_02\DZ3\obj\Debug\net6.0\DZ3.pdb
+C:\C#Lessons\lecture_02\lecture_02\DZ3\obj\Debug\net6.0\DZ3.genruntimeconfig.cache
+C:\C#Lessons\lecture_02\lecture_02\DZ3\obj\Debug\net6.0\ref\DZ3.dll

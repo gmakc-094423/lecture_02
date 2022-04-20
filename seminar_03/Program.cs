@@ -89,19 +89,25 @@ Console.WriteLine($"Длина отрезка  {Convert.ToInt64(Decision(x1, x2,
 Console.Write("Введите число: ");
 int sqare = Convert.ToInt32(Console.ReadLine());
 
-int Sqare(int sqare){
-  int counter = 1;
-
-  int[] xxx = new int[sqare];
-  while (counter <=  sqare){
-    // Console.Write($"{Math.Pow(counter, 2)} ");
-    double counter1 = Convert.ToDouble(counter);
-    xxx[(counter-1)] = Math.Pow(counter1, 2);
+void Sqare(int[] sqare){
+  int counter = 0;
+  int length = sqare.Length;
+  while (counter <  length){
+    sqare[counter] = Convert.ToInt32(Math.Pow(counter, 2));
     counter++;
   }
-  return xxx;
 }
 
-int x = Sqare(sqare);
+void PrintArry(int[] coll){
+  int count = coll.Length;
+  int index = 0;
+  while(index < count){
+    Console.Write(coll[index]+ " ");
+    index++;
+  }
+} 
 
-Console.Write($"{x} ");
+
+int[] arry = new int[sqare+1];
+Sqare(arry);
+PrintArry(arry);
